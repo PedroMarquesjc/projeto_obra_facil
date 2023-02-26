@@ -1,0 +1,10 @@
+Sobre o projeto
+
+
+A ideia é trazer facilidade na hora de apresentar um orçamento ao cliente e inicialmente vamos trabalhar com a parte de pintura.
+
+O pintor chega a casa do cliente, entende o que o cliente precisa, analisa todo o trabalho e na hora passar o orçamento, vê a dificuldade em fazer um acerto do tempo e da precisão do custo de materiais. 
+
+Agora, vamos trazer algo que em pequenos cliques norteará e facilitará a criação do orçamento.
+
+Queremos um cliente com um orçamento rápido nas mãos e um pintor sem medo de tomar prejuízo.
