@@ -1,4 +1,4 @@
-# Calcular a quantidade de tinta por m²em Python
+# Calcular a quantidade de tinta por m² em Python
 
 Altura = float(input('Digite a altura em metros:'))
 Comprimento = float(input('Digite o comprimento em metros:'))
