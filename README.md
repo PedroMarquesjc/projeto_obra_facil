@@ -1,2 +1,2 @@
-# projeto_obra_facil
-O projeto consiste em criar uma calculadora voltada a facilitar o cálculo de materiais gastos.
+# Cati
+O projeto consiste em criar uma aplicação que ajude tanto o construtor quanto ao cliente na hora de calcular e para levantar custos.
